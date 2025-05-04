@@ -1,4 +1,4 @@
-# RDBAlert
+Have I Been Ransomed - HIBR
 An Advanced tool to Extract Personally Identifiable Information (PII) of Ransomware leaks, specifically monitored through the crawler available at [breach.house](https://breach.house).
 <p align="center">
   <img src="logo.jpeg" alt="Logo del proyecto" width="200"/>
